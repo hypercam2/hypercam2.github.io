@@ -1,2 +1,2 @@
 # hypercam2.github.io
-Official GitHub Repo for the fan-made HyperCam2 resource center.
+Official GitHub Repo for the HyperCam2 resource center.
